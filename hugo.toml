@@ -1,5 +1,5 @@
 baseURL = 'https://lxz6410.github.io/xkk/'
-languageCode = 'en-us'
+languageCode = 'ch-CN'
 title = '法律热点'
 theme = 'ananke'
 publishDir = "docs"
